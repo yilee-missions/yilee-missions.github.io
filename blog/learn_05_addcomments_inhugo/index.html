@@ -5,7 +5,7 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="在Githu上發布網站與更新">
+  <meta name="description" content="在Hugo網頁添加評論功能">
   <meta name="author" content="Yi Lee">
   <meta name="generator" content="Hugo 0.84.3" />
 
@@ -144,7 +144,7 @@
         <a href="/categories/%e5%ad%b8%e7%bf%92"
           class="text-primary">學習</a>
         
-        <h2>在Github上發布網站與更新</h2>
+        <h2>在Hugo網頁添加評論功能</h2>
         <div class="mb-3 post-meta">
           <span>By Yi Lee</span>
           
@@ -153,36 +153,23 @@
           
         </div>
         
-        <img src="https://yilee-missions.github.io/images/post/github.png" class="img-fluid w-100 mb-4" alt="在Github上發布網站與更新">
+        <img src="https://yilee-missions.github.io/images/post/hugo.png" class="img-fluid w-100 mb-4" alt="在Hugo網頁添加評論功能">
         
         <div class="content mb-5">
-          <h5 id="發布網站到github的步驟">發布網站到Github的步驟</h5>
-<p><strong>step1:</strong> 到Github網站創建一個新的New repository
-<img src="/images/post/p4_step_01.png" alt=""></p>
-<p><strong>step2:</strong> 為 repository命名
-<img src="/images/post/p4_step_02.png" alt=""></p>
-<p><strong>step3:</strong> 創建 repository
-<img src="/images/post/p4_step_03.png" alt=""></p>
-<p><strong>step4:</strong> Set up in Desktop，將repository clone到電腦上
-<img src="/images/post/p4_step_04.png" alt=""></p>
-<p><strong>step5:</strong> 開啟Github Desktop
-<img src="/images/post/p4_step_05.png" alt=""></p>
-<p><strong>step6:</strong> 複製資料夾到Desktop
-<img src="/images/post/p4_step_06.png" alt=""></p>
-<p><strong>step7:</strong> 用Hugo產生個人網站的程式碼，透過命令提示字元，輸入Hugo按下Enter鍵，產生了一個新的資料夾 Public
-<img src="/images/post/p4_step_07_01.png" alt="">
-<img src="/images/post/p4_step_07_02.png" alt=""></p>
-<p><strong>step8:</strong> 複製Step7 Public產生的全部資料到Step6產生的資料夾中
-<img src="/images/post/p4_step_08.png" alt=""></p>
-<p><strong>step9:</strong> 回到GitHub Desktop 為更新命名，產生新的Commit 
-<img src="/images/post/p4_step_09.png" alt=""></p>
-<p><strong>step10:</strong> 在GitHub Desktop 右上角點擊Publish Branch。回到Github網站即可發現更新
-<img src="/images/post/p4_step_10_01.png" alt="">
-<img src="/images/post/p4_step_10_02.png" alt="">
-<strong>step11:</strong> 即可到自己帳號的網站查看更新
-<img src="/images/post/p4_step_11.png" alt=""></p>
-<h5 id="更新網站內容">更新網站內容</h5>
-<p>更新網站內容之後，重複上述步驟 Step7~Step11，在step取代所有資料夾，在Step9將commit的命名成新的名字即可。</p>
+          <p>因Hugo屬於靜態網頁，若需使用評論功能，需透過Disqus支援。</p>
+<p><strong>step0:</strong> 檢查套用主題是否支援支援Disqus功能，到confiq.toml檔案檢查是否下列程式碼。
+<img src="/images/post/p5_step_00.png" alt=""></p>
+<h5 id="若原模板沒有支援disqus">若原模板沒有支援Disqus</h5>
+<p><strong>step1:</strong> 到Hugo網站搜尋Disqus，找到下圖程式碼，複製下來。
+<img src="/images/post/p5_step_01.png" alt=""></p>
+<p><strong>step2:</strong> 回到VS Code，找到theme/layout/_default資料夾的single檔案，將上述程式碼貼在comment之後，示範如下圖。（template 放該程式碼的檔案，會位在layout資料夾，但檔案名稱不一定是single)，並添加step0的程式碼到confiq.toml檔案
+<img src="/images/post/p5_step_02.png" alt=""></p>
+<h5 id="確認網站可支援disqus後申請disqus帳號">確認網站可支援Disqus後，申請Disqus帳號</h5>
+<p><strong>step1:</strong> 將申請Disqus的shortname貼進confiq.toml內，程式碼disqusShortname後雙引號之內
+<img src="/images/post/p5_step_03.png" alt=""></p>
+<p><img src="/images/post/p5_step_04.png" alt=""></p>
+<p><strong>step2:</strong> 若在本地預覽出現以下文字表示設定成功，當網站上傳至Github後即可使用評論功能。
+<img src="/images/post/p5_step_05.png" alt=""></p>
         </div>
 
         

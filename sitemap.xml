@@ -3,30 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://yilee-missions.github.io/blog/</loc>
-    <lastmod>2021-07-01T11:00:00+08:00</lastmod>
+    <lastmod>2021-07-01T16:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yilee-missions.github.io/categories/</loc>
-    <lastmod>2021-07-01T11:00:00+08:00</lastmod>
+    <lastmod>2021-07-01T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yilee-missions.github.io/tags/hugo/</loc>
+    <lastmod>2021-07-01T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yilee-missions.github.io/tags/notes/</loc>
+    <lastmod>2021-07-01T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yilee-missions.github.io/tags/</loc>
+    <lastmod>2021-07-01T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yilee-missions.github.io/blog/learn_05_addcomments_inhugo/</loc>
+    <lastmod>2021-07-01T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yilee-missions.github.io/categories/%E5%AD%B8%E7%BF%92/</loc>
+    <lastmod>2021-07-01T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yilee-missions.github.io/</loc>
+    <lastmod>2021-07-01T16:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yilee-missions.github.io/tags/github/</loc>
     <lastmod>2021-07-01T11:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yilee-missions.github.io/tags/hugo/</loc>
-    <lastmod>2021-07-01T11:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yilee-missions.github.io/tags/notes/</loc>
-    <lastmod>2021-07-01T11:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yilee-missions.github.io/tags/</loc>
-    <lastmod>2021-07-01T11:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://yilee-missions.github.io/blog/learn_04_publishwebsite/</loc>
-    <lastmod>2021-07-01T11:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yilee-missions.github.io/categories/%E5%AD%B8%E7%BF%92/</loc>
-    <lastmod>2021-07-01T11:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yilee-missions.github.io/</loc>
     <lastmod>2021-07-01T11:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yilee-missions.github.io/tags/shortcodes/</loc>
@@ -55,14 +58,5 @@
   </url><url>
     <loc>https://yilee-missions.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>https://yilee-missions.github.io/categories/go-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://yilee-missions.github.io/blog/post-13/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://yilee-missions.github.io/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
 </urlset>
