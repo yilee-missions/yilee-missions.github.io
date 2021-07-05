@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 李怡|Portfolio</title>
+    <title>Categories on Yi Lee</title>
     <link>https://yilee-missions.github.io/categories/</link>
-    <description>Recent content in Categories on 李怡|Portfolio</description>
+    <description>Recent content in Categories on Yi Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 01 Jul 2021 17:30:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jul 2021 11:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>學習</title>
-      <link>https://yilee-missions.github.io/categories/%E5%AD%B8%E7%BF%92/</link>
-      <pubDate>Thu, 01 Jul 2021 17:30:00 +0800</pubDate>
+      <title>Reel</title>
+      <link>https://yilee-missions.github.io/categories/reel/</link>
+      <pubDate>Mon, 05 Jul 2021 11:00:00 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/categories/%E5%AD%B8%E7%BF%92/</guid>
+      <guid>https://yilee-missions.github.io/categories/reel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>https://yilee-missions.github.io/categories/post/</link>
+      <pubDate>Thu, 01 Jul 2021 11:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/categories/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphic</title>
+      <link>https://yilee-missions.github.io/categories/graphic/</link>
+      <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
+      
+      <guid>https://yilee-missions.github.io/categories/graphic/</guid>
       <description></description>
     </item>
     

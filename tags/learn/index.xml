@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn, on Yi Lee</title>
+    <link>https://yilee-missions.github.io/tags/learn/</link>
+    <description>Recent content in Learn, on Yi Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 01 Jul 2021 11:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/tags/learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在Github上發布網站與更新</title>
+      <link>https://yilee-missions.github.io/post/learn_04/</link>
+      <pubDate>Thu, 01 Jul 2021 11:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/post/learn_04/</guid>
+      <description>&lt;h5 id=&#34;發布網站到github的步驟&#34;&gt;發布網站到Github的步驟&lt;/h5&gt;</description>
+    </item>
+    
+    <item>
+      <title>使用Hugo Shortcodes</title>
+      <link>https://yilee-missions.github.io/post/learn_03/</link>
+      <pubDate>Thu, 01 Jul 2021 09:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/post/learn_03/</guid>
+      <description>&lt;p&gt;這篇筆記學習透過Shortcodes 插入社群媒體文章與影音到Hugo的網頁中。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo文章分類，為文章加上標籤</title>
+      <link>https://yilee-missions.github.io/post/learn_02/</link>
+      <pubDate>Wed, 30 Jun 2021 17:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/post/learn_02/</guid>
+      <description>&lt;p&gt;在每篇文章的最開頭寫入以下程式碼，方能順利顯示在Hugo的網頁上&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

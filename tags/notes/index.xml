@@ -1,65 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes on 李怡|Portfolio</title>
+    <title>Notes on Yi Lee</title>
     <link>https://yilee-missions.github.io/tags/notes/</link>
-    <description>Recent content in Notes on 李怡|Portfolio</description>
+    <description>Recent content in Notes on Yi Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 01 Jul 2021 17:30:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>在Hugo網頁添加Google Analytics</title>
-      <link>https://yilee-missions.github.io/blog/learn_06_addga_inhugo/</link>
-      <pubDate>Thu, 01 Jul 2021 17:30:00 +0800</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/learn_06_addga_inhugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>在Hugo網頁添加評論功能</title>
-      <link>https://yilee-missions.github.io/blog/learn_05_addcomments_inhugo/</link>
-      <pubDate>Thu, 01 Jul 2021 16:00:00 +0800</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/learn_05_addcomments_inhugo/</guid>
-      <description>&lt;p&gt;因Hugo屬於靜態網頁，若需使用評論功能，需透過Disqus支援。&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Thu, 01 Jul 2021 11:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在Github上發布網站與更新</title>
-      <link>https://yilee-missions.github.io/blog/learn_04_publishwebsite/</link>
+      <link>https://yilee-missions.github.io/post/learn_04/</link>
       <pubDate>Thu, 01 Jul 2021 11:00:00 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/blog/learn_04_publishwebsite/</guid>
+      <guid>https://yilee-missions.github.io/post/learn_04/</guid>
       <description>&lt;h5 id=&#34;發布網站到github的步驟&#34;&gt;發布網站到Github的步驟&lt;/h5&gt;</description>
     </item>
     
     <item>
       <title>使用Hugo Shortcodes</title>
-      <link>https://yilee-missions.github.io/blog/learn_03_shortcodes_inhugo/</link>
+      <link>https://yilee-missions.github.io/post/learn_03/</link>
       <pubDate>Thu, 01 Jul 2021 09:00:00 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/blog/learn_03_shortcodes_inhugo/</guid>
+      <guid>https://yilee-missions.github.io/post/learn_03/</guid>
       <description>&lt;p&gt;這篇筆記學習透過Shortcodes 插入社群媒體文章與影音到Hugo的網頁中。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hugo文章分類，為文章加上標籤</title>
-      <link>https://yilee-missions.github.io/blog/learn_02_postwithtags_inhugo/</link>
+      <link>https://yilee-missions.github.io/post/learn_02/</link>
       <pubDate>Wed, 30 Jun 2021 17:00:00 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/blog/learn_02_postwithtags_inhugo/</guid>
-      <description>&lt;p&gt;每篇文章的最開頭，需寫入以下程式碼，方能順利顯示在Hugo的網頁上&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown 語法學習</title>
-      <link>https://yilee-missions.github.io/blog/learn_01_md_basic/</link>
-      <pubDate>Wed, 30 Jun 2021 11:00:47 +0800</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/learn_01_md_basic/</guid>
-      <description>&lt;h3 id=&#34;markedown語法包含以下格式&#34;&gt;Markedown語法包含以下格式&lt;/h3&gt;
-&lt;p&gt;Markdown語法無法改變顏色，但可以做以下變化&lt;/p&gt;</description>
+      <guid>https://yilee-missions.github.io/post/learn_02/</guid>
+      <description>&lt;p&gt;在每篇文章的最開頭寫入以下程式碼，方能順利顯示在Hugo的網頁上&lt;/p&gt;</description>
     </item>
     
   </channel>

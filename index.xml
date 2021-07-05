@@ -1,65 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>李怡|Portfolio</title>
+    <title>Yi Lee</title>
     <link>https://yilee-missions.github.io/</link>
-    <description>Recent content on 李怡|Portfolio</description>
+    <description>Recent content on Yi Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 01 Jul 2021 17:30:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jul 2021 14:00:20 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>在Hugo網頁添加Google Analytics</title>
-      <link>https://yilee-missions.github.io/blog/learn_06_addga_inhugo/</link>
-      <pubDate>Thu, 01 Jul 2021 17:30:00 +0800</pubDate>
+      <title>Animation Reel</title>
+      <link>https://yilee-missions.github.io/post/work1/</link>
+      <pubDate>Mon, 05 Jul 2021 11:00:00 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/blog/learn_06_addga_inhugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>在Hugo網頁添加評論功能</title>
-      <link>https://yilee-missions.github.io/blog/learn_05_addcomments_inhugo/</link>
-      <pubDate>Thu, 01 Jul 2021 16:00:00 +0800</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/learn_05_addcomments_inhugo/</guid>
-      <description>&lt;p&gt;因Hugo屬於靜態網頁，若需使用評論功能，需透過Disqus支援。&lt;/p&gt;</description>
+      <guid>https://yilee-missions.github.io/post/work1/</guid>
+      <description>&lt;p&gt;Underneath is my animation reels. Check it out!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>在Github上發布網站與更新</title>
-      <link>https://yilee-missions.github.io/blog/learn_04_publishwebsite/</link>
+      <link>https://yilee-missions.github.io/post/learn_04/</link>
       <pubDate>Thu, 01 Jul 2021 11:00:00 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/blog/learn_04_publishwebsite/</guid>
+      <guid>https://yilee-missions.github.io/post/learn_04/</guid>
       <description>&lt;h5 id=&#34;發布網站到github的步驟&#34;&gt;發布網站到Github的步驟&lt;/h5&gt;</description>
     </item>
     
     <item>
       <title>使用Hugo Shortcodes</title>
-      <link>https://yilee-missions.github.io/blog/learn_03_shortcodes_inhugo/</link>
+      <link>https://yilee-missions.github.io/post/learn_03/</link>
       <pubDate>Thu, 01 Jul 2021 09:00:00 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/blog/learn_03_shortcodes_inhugo/</guid>
+      <guid>https://yilee-missions.github.io/post/learn_03/</guid>
       <description>&lt;p&gt;這篇筆記學習透過Shortcodes 插入社群媒體文章與影音到Hugo的網頁中。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hugo文章分類，為文章加上標籤</title>
-      <link>https://yilee-missions.github.io/blog/learn_02_postwithtags_inhugo/</link>
+      <link>https://yilee-missions.github.io/post/learn_02/</link>
       <pubDate>Wed, 30 Jun 2021 17:00:00 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/blog/learn_02_postwithtags_inhugo/</guid>
-      <description>&lt;p&gt;每篇文章的最開頭，需寫入以下程式碼，方能順利顯示在Hugo的網頁上&lt;/p&gt;</description>
+      <guid>https://yilee-missions.github.io/post/learn_02/</guid>
+      <description>&lt;p&gt;在每篇文章的最開頭寫入以下程式碼，方能順利顯示在Hugo的網頁上&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Markdown 語法學習</title>
-      <link>https://yilee-missions.github.io/blog/learn_01_md_basic/</link>
-      <pubDate>Wed, 30 Jun 2021 11:00:47 +0800</pubDate>
+      <title>A Totally Response Theme</title>
+      <link>https://yilee-missions.github.io/post/work5/</link>
+      <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
       
-      <guid>https://yilee-missions.github.io/blog/learn_01_md_basic/</guid>
-      <description>&lt;h3 id=&#34;markedown語法包含以下格式&#34;&gt;Markedown語法包含以下格式&lt;/h3&gt;
-&lt;p&gt;Markdown語法無法改變顏色，但可以做以下變化&lt;/p&gt;</description>
+      <guid>https://yilee-missions.github.io/post/work5/</guid>
+      <description>&lt;p&gt;這個分類用來更新平面設計、攝影以及畫畫&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Post with a Gallery</title>
+      <link>https://yilee-missions.github.io/post/work7/</link>
+      <pubDate>Mon, 01 Jan 2018 19:57:40 +0530</pubDate>
+      
+      <guid>https://yilee-missions.github.io/post/work7/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Post with lot of comments</title>
+      <link>https://yilee-missions.github.io/post/work8/</link>
+      <pubDate>Wed, 14 Feb 2018 19:59:22 +0530</pubDate>
+      
+      <guid>https://yilee-missions.github.io/post/work8/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blogging is Fun and Worthwhile</title>
+      <link>https://yilee-missions.github.io/post/work9/</link>
+      <pubDate>Sun, 06 May 2018 20:02:19 +0530</pubDate>
+      
+      <guid>https://yilee-missions.github.io/post/work9/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://yilee-missions.github.io/about/</link>
+      <pubDate>Thu, 01 Jul 2021 21:05:33 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/about/</guid>
+      <description>I am an animator
+The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&amp;rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Education  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus.  When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.</description>
     </item>
     
   </channel>
