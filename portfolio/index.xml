@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I &lt;span&gt;live&lt;/span&gt; to help people live a &lt;span&gt;hopeful life&lt;/span&gt; on Yi Lee | Personal Website</title>
+    <title>&lt;span&gt;Inpire&lt;/span&gt; people to have some &lt;span&gt;hope&lt;/span&gt; in life. on Yi Lee | Personal Website</title>
     <link>https://yilee-missions.github.io/portfolio/</link>
-    <description>Recent content in I &lt;span&gt;live&lt;/span&gt; to help people live a &lt;span&gt;hopeful life&lt;/span&gt; on Yi Lee | Personal Website</description>
+    <description>Recent content in &lt;span&gt;Inpire&lt;/span&gt; people to have some &lt;span&gt;hope&lt;/span&gt; in life. on Yi Lee | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 07 Jul 2021 16:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Social Media Content Reel 2021</title>
-      <link>https://yilee-missions.github.io/portfolio/soicalmediacontent_reel/</link>
-      <pubDate>Thu, 08 Jul 2021 11:00:00 +0800</pubDate>
-      
-      <guid>https://yilee-missions.github.io/portfolio/soicalmediacontent_reel/</guid>
-      <description>The following reel iincludes music viedos that I particpate in post production.   </description>
-    </item>
-    
     <item>
       <title>Motion Captur Animation Reel 2018</title>
       <link>https://yilee-missions.github.io/portfolio/mocap_animation_reel/</link>
@@ -32,7 +23,8 @@ Music credit https://soundcloud.com/musicwithlight Happy Upbeat - AShamaluevMusi
       <pubDate>Sun, 01 Jul 2018 15:58:10 +0800</pubDate>
       
       <guid>https://yilee-missions.github.io/portfolio/3dcanimation_reel_2018/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.</description>
+      <description>A00:03-00:37 TV Series &amp;ldquo;Chi&amp;rsquo;s Sweet Home&amp;rdquo;(チーズスイートホーム), , responsible for animation and layout
+00:38-01:05 Short film &amp;ldquo;Knob&amp;rdquo;, , responsible for animation and layout</description>
     </item>
     
     <item>
@@ -42,6 +34,15 @@ Music credit https://soundcloud.com/musicwithlight Happy Upbeat - AShamaluevMusi
       
       <guid>https://yilee-missions.github.io/portfolio/musicvideoreel_2016/</guid>
       <description>00:02-00:04 Responsible for expanding the scene from original footage. comping the particle, and color correction. Not responsible for final color grading [張韶涵 全面淪陷]</description>
+    </item>
+    
+    <item>
+      <title>Texture and Lighting Test</title>
+      <link>https://yilee-missions.github.io/portfolio/textureandlighting/</link>
+      <pubDate>Wed, 01 Jan 2014 15:55:44 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/portfolio/textureandlighting/</guid>
+      <description>    Tool: Maya, mental ray, UV Editor  </description>
     </item>
     
   </channel>
