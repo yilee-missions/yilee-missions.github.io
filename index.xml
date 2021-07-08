@@ -1,93 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yi Lee</title>
+    <title>Yi Lee | Personal Website</title>
     <link>https://yilee-missions.github.io/</link>
-    <description>Recent content on Yi Lee</description>
+    <description>Recent content on Yi Lee | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 05 Jul 2021 14:00:20 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jul 2021 11:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Animation Reel</title>
-      <link>https://yilee-missions.github.io/post/work1/</link>
-      <pubDate>Mon, 05 Jul 2021 11:00:00 +0800</pubDate>
+      <title>Social Media Content Reel 2021</title>
+      <link>https://yilee-missions.github.io/portfolio/soicalmediacontent_reel/</link>
+      <pubDate>Thu, 08 Jul 2021 11:00:00 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/post/work1/</guid>
-      <description>&lt;p&gt;Underneath is my animation reels. Check it out!&lt;/p&gt;</description>
+      <guid>https://yilee-missions.github.io/portfolio/soicalmediacontent_reel/</guid>
+      <description>The following reel is where I have particpated from 2018 to 2021.
+  </description>
     </item>
     
     <item>
-      <title>在Github上發布網站與更新</title>
-      <link>https://yilee-missions.github.io/post/learn_04/</link>
-      <pubDate>Thu, 01 Jul 2021 11:00:00 +0800</pubDate>
+      <title>Markdown 語法學習</title>
+      <link>https://yilee-missions.github.io/blog/learn_01_markdown/</link>
+      <pubDate>Wed, 30 Jun 2021 11:00:47 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/post/learn_04/</guid>
-      <description>&lt;h5 id=&#34;發布網站到github的步驟&#34;&gt;發布網站到Github的步驟&lt;/h5&gt;</description>
+      <guid>https://yilee-missions.github.io/blog/learn_01_markdown/</guid>
+      <description>&lt;h5 id=&#34;markedown語法包含以下格式&#34;&gt;Markedown語法包含以下格式&lt;/h5&gt;
+&lt;p&gt;Markdown語法無法改變顏色，但可以做以下變化&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>使用Hugo Shortcodes</title>
-      <link>https://yilee-missions.github.io/post/learn_03/</link>
-      <pubDate>Thu, 01 Jul 2021 09:00:00 +0800</pubDate>
+      <title>The 10 Biggest Rebrands and Logo Designs of 2019</title>
+      <link>https://yilee-missions.github.io/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</link>
+      <pubDate>Tue, 24 Dec 2019 13:40:00 +0600</pubDate>
       
-      <guid>https://yilee-missions.github.io/post/learn_03/</guid>
-      <description>&lt;p&gt;這篇筆記學習透過Shortcodes 插入社群媒體文章與影音到Hugo的網頁中。&lt;/p&gt;</description>
+      <guid>https://yilee-missions.github.io/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
     </item>
     
     <item>
-      <title>Hugo文章分類，為文章加上標籤</title>
-      <link>https://yilee-missions.github.io/post/learn_02/</link>
-      <pubDate>Wed, 30 Jun 2021 17:00:00 +0800</pubDate>
+      <title>Design Inspiration: The Best Projects From November</title>
+      <link>https://yilee-missions.github.io/blog/learn_02_/</link>
+      <pubDate>Tue, 24 Dec 2019 13:36:06 +0600</pubDate>
       
-      <guid>https://yilee-missions.github.io/post/learn_02/</guid>
-      <description>&lt;p&gt;在每篇文章的最開頭寫入以下程式碼，方能順利顯示在Hugo的網頁上&lt;/p&gt;</description>
+      <guid>https://yilee-missions.github.io/blog/learn_02_/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
     </item>
     
     <item>
-      <title>A Totally Response Theme</title>
-      <link>https://yilee-missions.github.io/post/work5/</link>
-      <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
+      <title>Pt Chooses Classic Blue for Its Colour of the Year 2020</title>
+      <link>https://yilee-missions.github.io/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</link>
+      <pubDate>Tue, 24 Dec 2019 13:32:54 +0600</pubDate>
       
-      <guid>https://yilee-missions.github.io/post/work5/</guid>
-      <description>&lt;p&gt;這個分類用來更新平面設計、攝影以及畫畫&lt;/p&gt;</description>
+      <guid>https://yilee-missions.github.io/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
     </item>
     
     <item>
-      <title>Post with a Gallery</title>
-      <link>https://yilee-missions.github.io/post/work7/</link>
-      <pubDate>Mon, 01 Jan 2018 19:57:40 +0530</pubDate>
+      <title>The 10 Biggest Product Stories of 2019</title>
+      <link>https://yilee-missions.github.io/blog/the-10-biggest-product-stories-of-2019/</link>
+      <pubDate>Tue, 24 Dec 2019 12:58:17 +0600</pubDate>
       
-      <guid>https://yilee-missions.github.io/post/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <guid>https://yilee-missions.github.io/blog/the-10-biggest-product-stories-of-2019/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
     </item>
     
     <item>
-      <title>A Post with lot of comments</title>
-      <link>https://yilee-missions.github.io/post/work8/</link>
-      <pubDate>Wed, 14 Feb 2018 19:59:22 +0530</pubDate>
+      <title>Motion Captur Animation Reel 2018</title>
+      <link>https://yilee-missions.github.io/portfolio/mocap_animation_reel/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/post/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <guid>https://yilee-missions.github.io/portfolio/mocap_animation_reel/</guid>
+      <description>All shots from TV series&amp;quot; 我愛歡喜＂
+Music credit https://soundcloud.com/musicwithlight Happy Upbeat - AShamaluevMusic</description>
     </item>
     
     <item>
-      <title>Blogging is Fun and Worthwhile</title>
-      <link>https://yilee-missions.github.io/post/work9/</link>
-      <pubDate>Sun, 06 May 2018 20:02:19 +0530</pubDate>
+      <title>3D Character Animation Reel 2018</title>
+      <link>https://yilee-missions.github.io/portfolio/3dcanimation_reel_2018/</link>
+      <pubDate>Sun, 01 Jul 2018 15:58:10 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/post/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+      <guid>https://yilee-missions.github.io/portfolio/3dcanimation_reel_2018/</guid>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.</description>
     </item>
     
     <item>
-      <title>About me</title>
-      <link>https://yilee-missions.github.io/about/</link>
-      <pubDate>Thu, 01 Jul 2021 21:05:33 +0800</pubDate>
+      <title>Music Video Reel 2016</title>
+      <link>https://yilee-missions.github.io/portfolio/musicvideoreel_2016/</link>
+      <pubDate>Mon, 01 Aug 2016 15:55:44 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/about/</guid>
-      <description>I am an animator
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&amp;rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-Education  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus.  When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.</description>
+      <guid>https://yilee-missions.github.io/portfolio/musicvideoreel_2016/</guid>
+      <description>00:02-00:04 Responsible for expanding the scene from original footage. comping the particle, and color correction. Not responsible for final color grading [張韶涵 全面淪陷]</description>
     </item>
     
   </channel>

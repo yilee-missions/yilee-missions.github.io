@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on 李怡|Portfolio</title>
+    <title>Markdown on Yi Lee | Personal Website</title>
     <link>https://yilee-missions.github.io/tags/markdown/</link>
-    <description>Recent content in Markdown on 李怡|Portfolio</description>
+    <description>Recent content in Markdown on Yi Lee | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 30 Jun 2021 11:00:47 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown 語法學習</title>
-      <link>https://yilee-missions.github.io/blog/learn_01_md_basic/</link>
+      <link>https://yilee-missions.github.io/blog/learn_01_markdown/</link>
       <pubDate>Wed, 30 Jun 2021 11:00:47 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/blog/learn_01_md_basic/</guid>
-      <description>&lt;h3 id=&#34;markedown語法包含以下格式&#34;&gt;Markedown語法包含以下格式&lt;/h3&gt;
+      <guid>https://yilee-missions.github.io/blog/learn_01_markdown/</guid>
+      <description>&lt;h5 id=&#34;markedown語法包含以下格式&#34;&gt;Markedown語法包含以下格式&lt;/h5&gt;
 &lt;p&gt;Markdown語法無法改變顏色，但可以做以下變化&lt;/p&gt;</description>
     </item>
     

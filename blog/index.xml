@@ -1,65 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on 李怡|Portfolio</title>
+    <title>Yi&#39;s Blog on Yi Lee | Personal Website</title>
     <link>https://yilee-missions.github.io/blog/</link>
-    <description>Recent content in Blogs on 李怡|Portfolio</description>
+    <description>Recent content in Yi&#39;s Blog on Yi Lee | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 01 Jul 2021 17:30:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>在Hugo網頁添加Google Analytics</title>
-      <link>https://yilee-missions.github.io/blog/learn_06_addga_inhugo/</link>
-      <pubDate>Thu, 01 Jul 2021 17:30:00 +0800</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/learn_06_addga_inhugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>在Hugo網頁添加評論功能</title>
-      <link>https://yilee-missions.github.io/blog/learn_05_addcomments_inhugo/</link>
-      <pubDate>Thu, 01 Jul 2021 16:00:00 +0800</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/learn_05_addcomments_inhugo/</guid>
-      <description>&lt;p&gt;因Hugo屬於靜態網頁，若需使用評論功能，需透過Disqus支援。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>在Github上發布網站與更新</title>
-      <link>https://yilee-missions.github.io/blog/learn_04_publishwebsite/</link>
-      <pubDate>Thu, 01 Jul 2021 11:00:00 +0800</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/learn_04_publishwebsite/</guid>
-      <description>&lt;h5 id=&#34;發布網站到github的步驟&#34;&gt;發布網站到Github的步驟&lt;/h5&gt;</description>
-    </item>
-    
-    <item>
-      <title>使用Hugo Shortcodes</title>
-      <link>https://yilee-missions.github.io/blog/learn_03_shortcodes_inhugo/</link>
-      <pubDate>Thu, 01 Jul 2021 09:00:00 +0800</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/learn_03_shortcodes_inhugo/</guid>
-      <description>&lt;p&gt;這篇筆記學習透過Shortcodes 插入社群媒體文章與影音到Hugo的網頁中。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hugo文章分類，為文章加上標籤</title>
-      <link>https://yilee-missions.github.io/blog/learn_02_postwithtags_inhugo/</link>
-      <pubDate>Wed, 30 Jun 2021 17:00:00 +0800</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/learn_02_postwithtags_inhugo/</guid>
-      <description>&lt;p&gt;每篇文章的最開頭，需寫入以下程式碼，方能順利顯示在Hugo的網頁上&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Wed, 07 Jul 2021 17:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown 語法學習</title>
-      <link>https://yilee-missions.github.io/blog/learn_01_md_basic/</link>
+      <link>https://yilee-missions.github.io/blog/learn_01_markdown/</link>
       <pubDate>Wed, 30 Jun 2021 11:00:47 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/blog/learn_01_md_basic/</guid>
-      <description>&lt;h3 id=&#34;markedown語法包含以下格式&#34;&gt;Markedown語法包含以下格式&lt;/h3&gt;
+      <guid>https://yilee-missions.github.io/blog/learn_01_markdown/</guid>
+      <description>&lt;h5 id=&#34;markedown語法包含以下格式&#34;&gt;Markedown語法包含以下格式&lt;/h5&gt;
 &lt;p&gt;Markdown語法無法改變顏色，但可以做以下變化&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The 10 Biggest Rebrands and Logo Designs of 2019</title>
+      <link>https://yilee-missions.github.io/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</link>
+      <pubDate>Tue, 24 Dec 2019 13:40:00 +0600</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+    </item>
+    
+    <item>
+      <title>Design Inspiration: The Best Projects From November</title>
+      <link>https://yilee-missions.github.io/blog/learn_02_/</link>
+      <pubDate>Tue, 24 Dec 2019 13:36:06 +0600</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/learn_02_/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+    </item>
+    
+    <item>
+      <title>Pt Chooses Classic Blue for Its Colour of the Year 2020</title>
+      <link>https://yilee-missions.github.io/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</link>
+      <pubDate>Tue, 24 Dec 2019 13:32:54 +0600</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+    </item>
+    
+    <item>
+      <title>The 10 Biggest Product Stories of 2019</title>
+      <link>https://yilee-missions.github.io/blog/the-10-biggest-product-stories-of-2019/</link>
+      <pubDate>Tue, 24 Dec 2019 12:58:17 +0600</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/the-10-biggest-product-stories-of-2019/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
     </item>
     
   </channel>
