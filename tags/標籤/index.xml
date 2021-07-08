@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>標籤 on Yi Lee | Personal Website</title>
+    <link>https://yilee-missions.github.io/tags/%E6%A8%99%E7%B1%A4/</link>
+    <description>Recent content in 標籤 on Yi Lee | Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 30 Jun 2021 17:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/tags/%E6%A8%99%E7%B1%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>為Hugo文章分類、加上標籤</title>
+      <link>https://yilee-missions.github.io/blog/learn_02_/</link>
+      <pubDate>Wed, 30 Jun 2021 17:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/learn_02_/</guid>
+      <description>&lt;p&gt;每篇文章的最開頭，需寫入以下程式碼，方能順利顯示在Hugo的網頁上&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

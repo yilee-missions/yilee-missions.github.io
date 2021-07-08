@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-tw"><head>
   <meta charset="utf-8" />
-  <title>Design Inspiration: The Best Projects From November</title>
+  <title>為Hugo文章分類、加上標籤</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -102,44 +102,73 @@
     <div class="row justify-content-center">
       <div class="col-lg-8">
         <article class="site-blog-details">
-          <p><span>December 24, 2019</span> by <span>Alexender Schoitiz</span></p>
-          <h2 class="blog-title">Design Inspiration: The Best Projects From November</h2>
+          <p><span>June 30, 2021</span> by <span>Yi Lee</span></p>
+          <h2 class="blog-title">為Hugo文章分類、加上標籤</h2>
           <img class="feature-image" src="https://yilee-missions.github.io/images/blog/blog-details-image.jpg" alt="blog-feature-image">
-          <h3 id="black-lines-brand-identity-by--smith">Black Lines brand identity, by &amp; Smith</h3>
-<p>Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.</p>
-<ol>
-<li>ROFL means Rolling on floor laughing.</li>
-<li>STFU means Shut the <em>freak</em> up.</li>
-<li>LMK means Let me know.</li>
-<li>ILY means I love you.</li>
-<li>YOLO means You only live once.</li>
-<li>SMH means Shaking my head.</li>
-</ol>
-<p>The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio &amp; Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to &amp; Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.</p>
-<ol>
-<li>ROFL means Rolling on floor laughing.</li>
-<li>STFU means Shut the <em>freak</em> up.</li>
-<li>LMK means Let me know.</li>
-<li>ILY means I love you.</li>
-<li>YOLO means You only live once.</li>
-<li>SMH means Shaking my head.</li>
-</ol>
-<p><img src="https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg" alt="blog-details-image-02"></p>
-<p>Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.</p>
-<blockquote>
-<p>&ldquo;The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.&rdquo;</p>
-</blockquote>
-<blockquote>
-<p>Paul Rand, graphic designer</p>
-</blockquote>
+          <p>每篇文章的最開頭，需寫入以下程式碼，方能順利顯示在Hugo的網頁上</p>
+<pre><code>title: &quot;這裡寫文章標題&quot;
+date: 2019-10-29T10:07:47+06:00
+draft: false
 
+# post thumb 文章的縮圖
+image: &quot;images/blog/post-3.jpg&quot;
+
+# meta description
+description: &quot;this is meta description&quot;
+
+# taxonomies
+categories: 
+  - &quot;Go Language&quot;
+tags:
+  - &quot;Photos&quot;
+
+# post type
+type: &quot;post&quot;
+
+</code></pre><h5 id="預設屬性分別為">預設屬性分別為：</h5>
+<ul>
+<li>title：標題名</li>
+<li>date：日期</li>
+<li>draft：草稿，如果是 true 生成網站時，不包括此頁面</li>
+</ul>
+<h5 id="常用-front-matter-屬性">常用 Front Matter 屬性</h5>
+<p>其他 Hugo 支持的常用 Front Matter 屬性</p>
+<ul>
+<li>description：內容描述，主要用於 SEO 優化</li>
+<li>tags：標籤</li>
+<li>categories：分類</li>
+<li>keywords：關鍵字</li>
+<li>url：文章 url 名稱，預設使用檔案名稱</li>
+<li>weight：列表頁的文章排序，越小越靠前，無設定則依照時間排序</li>
+</ul>
         </article>
       </div>
     </div>
+    <div class="disqus markdown">
+      <div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'yilee-missions';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </div>
   </div>
+
 </section>
 
-
+           
         </main><footer class="site-footer">
   <div class="container">
     <div class="row">

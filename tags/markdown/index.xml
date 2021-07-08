@@ -13,8 +13,7 @@
       <pubDate>Wed, 30 Jun 2021 11:00:47 +0800</pubDate>
       
       <guid>https://yilee-missions.github.io/blog/learn_01_markdown/</guid>
-      <description>&lt;h5 id=&#34;markedown語法包含以下格式&#34;&gt;Markedown語法包含以下格式&lt;/h5&gt;
-&lt;p&gt;Markdown語法無法改變顏色，但可以做以下變化&lt;/p&gt;</description>
+      <description>&lt;p&gt;每篇文章的最開頭，需寫入以下程式碼，方能順利顯示在Hugo的網頁上&lt;/p&gt;</description>
     </item>
     
   </channel>

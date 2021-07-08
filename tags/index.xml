@@ -6,22 +6,58 @@
     <description>Recent content in Tags on Yi Lee | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 30 Jun 2021 11:00:47 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jul 2021 16:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown</title>
-      <link>https://yilee-missions.github.io/tags/markdown/</link>
-      <pubDate>Wed, 30 Jun 2021 11:00:47 +0800</pubDate>
+      <title>Hugo</title>
+      <link>https://yilee-missions.github.io/tags/hugo/</link>
+      <pubDate>Thu, 01 Jul 2021 16:00:00 +0800</pubDate>
       
-      <guid>https://yilee-missions.github.io/tags/markdown/</guid>
+      <guid>https://yilee-missions.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes</title>
       <link>https://yilee-missions.github.io/tags/notes/</link>
-      <pubDate>Wed, 30 Jun 2021 11:00:47 +0800</pubDate>
+      <pubDate>Thu, 01 Jul 2021 16:00:00 +0800</pubDate>
       
       <guid>https://yilee-missions.github.io/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://yilee-missions.github.io/tags/github/</link>
+      <pubDate>Thu, 01 Jul 2021 11:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://yilee-missions.github.io/tags/shortcodes/</link>
+      <pubDate>Thu, 01 Jul 2021 09:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>標籤</title>
+      <link>https://yilee-missions.github.io/tags/%E6%A8%99%E7%B1%A4/</link>
+      <pubDate>Wed, 30 Jun 2021 17:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/tags/%E6%A8%99%E7%B1%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://yilee-missions.github.io/tags/markdown/</link>
+      <pubDate>Wed, 30 Jun 2021 11:00:47 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     

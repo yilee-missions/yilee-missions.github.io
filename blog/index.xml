@@ -8,49 +8,48 @@
     <language>zh-tw</language>
     <lastBuildDate>Wed, 07 Jul 2021 17:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>在Hugo網頁添加評論功能</title>
+      <link>https://yilee-missions.github.io/blog/learn_05_/</link>
+      <pubDate>Thu, 01 Jul 2021 16:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/learn_05_/</guid>
+      <description>&lt;p&gt;因Hugo屬於靜態網頁，若需使用評論功能，需透過Disqus支援。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>在Github上發布網站與更新</title>
+      <link>https://yilee-missions.github.io/blog/learn_04_publishwebsite/</link>
+      <pubDate>Thu, 01 Jul 2021 11:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/learn_04_publishwebsite/</guid>
+      <description>&lt;p&gt;透過以下步驟Shortcodes 插入社群媒體文章與影音到Hugo的網頁中。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>使用Hugo Shortcodes</title>
+      <link>https://yilee-missions.github.io/blog/learn_03_shortcodes/</link>
+      <pubDate>Thu, 01 Jul 2021 09:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/learn_03_shortcodes/</guid>
+      <description>&lt;p&gt;這篇筆記學習透過Shortcodes 插入社群媒體文章與影音到Hugo的網頁中。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>為Hugo文章分類、加上標籤</title>
+      <link>https://yilee-missions.github.io/blog/learn_02_/</link>
+      <pubDate>Wed, 30 Jun 2021 17:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/learn_02_/</guid>
+      <description>&lt;p&gt;每篇文章的最開頭，需寫入以下程式碼，方能順利顯示在Hugo的網頁上&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Markdown 語法學習</title>
       <link>https://yilee-missions.github.io/blog/learn_01_markdown/</link>
       <pubDate>Wed, 30 Jun 2021 11:00:47 +0800</pubDate>
       
       <guid>https://yilee-missions.github.io/blog/learn_01_markdown/</guid>
-      <description>&lt;h5 id=&#34;markedown語法包含以下格式&#34;&gt;Markedown語法包含以下格式&lt;/h5&gt;
-&lt;p&gt;Markdown語法無法改變顏色，但可以做以下變化&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The 10 Biggest Rebrands and Logo Designs of 2019</title>
-      <link>https://yilee-missions.github.io/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</link>
-      <pubDate>Tue, 24 Dec 2019 13:40:00 +0600</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
-    </item>
-    
-    <item>
-      <title>Design Inspiration: The Best Projects From November</title>
-      <link>https://yilee-missions.github.io/blog/learn_02_/</link>
-      <pubDate>Tue, 24 Dec 2019 13:36:06 +0600</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/learn_02_/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
-    </item>
-    
-    <item>
-      <title>Pt Chooses Classic Blue for Its Colour of the Year 2020</title>
-      <link>https://yilee-missions.github.io/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</link>
-      <pubDate>Tue, 24 Dec 2019 13:32:54 +0600</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
-    </item>
-    
-    <item>
-      <title>The 10 Biggest Product Stories of 2019</title>
-      <link>https://yilee-missions.github.io/blog/the-10-biggest-product-stories-of-2019/</link>
-      <pubDate>Tue, 24 Dec 2019 12:58:17 +0600</pubDate>
-      
-      <guid>https://yilee-missions.github.io/blog/the-10-biggest-product-stories-of-2019/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+      <description>&lt;p&gt;每篇文章的最開頭，需寫入以下程式碼，方能順利顯示在Hugo的網頁上&lt;/p&gt;</description>
     </item>
     
   </channel>

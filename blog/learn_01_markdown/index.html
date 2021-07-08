@@ -104,9 +104,9 @@
         <article class="site-blog-details">
           <p><span>June 30, 2021</span> by <span>Yi Lee</span></p>
           <h2 class="blog-title">Markdown 語法學習</h2>
-          <img class="feature-image" src="https://yilee-missions.github.io/" alt="blog-feature-image">
-          <h5 id="markedown語法包含以下格式">Markedown語法包含以下格式</h5>
-<p>Markdown語法無法改變顏色，但可以做以下變化</p>
+          <img class="feature-image" src="https://yilee-missions.github.io/images/blog/blog-details-image.jpg" alt="blog-feature-image">
+          <p>每篇文章的最開頭，需寫入以下程式碼，方能順利顯示在Hugo的網頁上</p>
+<p>Markedown語法包含以下格式。Markdown語法無法改變顏色，但可以做以下變化</p>
 <p><strong>1. 內文:</strong> 直接打內容</p>
 <p><strong>2. 標題:</strong> 前面加上一個#變成一級標題  兩個#變成二級標題</p>
 <p>以此類推 支援到六級標題 示範如下</p>
@@ -212,10 +212,31 @@ print(<span style="color:#e6db74">&#34;Hello world&#34;</span>)
         </article>
       </div>
     </div>
+    <div class="disqus markdown">
+      <div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'yilee-missions';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </div>
   </div>
+
 </section>
 
-
+           
         </main><footer class="site-footer">
   <div class="container">
     <div class="row">
