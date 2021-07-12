@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Search Console on Yi Lee | Personal Website</title>
+    <link>https://yilee-missions.github.io/tags/google-search-console/</link>
+    <description>Recent content in Google Search Console on Yi Lee | Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 02 Jul 2021 09:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/tags/google-search-console/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>添加Google Search Console於Hugo</title>
+      <link>https://yilee-missions.github.io/blog/learn_07_googleconsole/</link>
+      <pubDate>Fri, 02 Jul 2021 09:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/learn_07_googleconsole/</guid>
+      <description>驗證網站是否可以被google搜尋的到 在google搜尋 site: 網址 來查看
+不可被搜尋 可被搜尋 添加Google Search Console步驟 </description>
+    </item>
+    
+  </channel>
+</rss>
