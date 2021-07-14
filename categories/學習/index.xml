@@ -6,9 +6,18 @@
     <description>Recent content in 學習 on Yi Lee | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 02 Jul 2021 09:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/categories/%E5%AD%B8%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jul 2021 11:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/categories/%E5%AD%B8%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>添加Google Search Console於Hugo</title>
+      <title>個人蓋洛普優勢行動建議</title>
+      <link>https://yilee-missions.github.io/blog/learn_08_gallupaction/</link>
+      <pubDate>Tue, 13 Jul 2021 11:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/learn_08_gallupaction/</guid>
+      <description>&lt;h4 id=&#34;體諒行動建議&#34;&gt;體諒行動建議&lt;/h4&gt;</description>
+    </item>
+    
+    <item>
+      <title>添加Google Search Console</title>
       <link>https://yilee-missions.github.io/blog/learn_07_googleconsole/</link>
       <pubDate>Fri, 02 Jul 2021 09:00:00 +0800</pubDate>
       
