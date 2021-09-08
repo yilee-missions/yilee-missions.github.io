@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-tw"><head>
   <meta charset="utf-8" />
-  <title>Yi&#39;s Blog</title>
+  <title>Character Creator 基礎教學</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -97,109 +97,52 @@
 </nav>
 <main>
 
-<section class="site-blog-header">
+<section class="site-blog details">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-8 text-center">
-        <h1>Yi&#39;s Blog</h1>
-        <p>
-          Learning, Reading, and Writing.
-        </p>
+      <div class="col-lg-8">
+        <article class="site-blog-details">
+          <p><span>September 2, 2021</span> by <span>Yi Lee</span></p>
+          <h2 class="blog-title">Character Creator 基礎教學</h2>
+          <img class="feature-image" src="https://yilee-missions.github.io/" alt="blog-feature-image">
+          <p>以下筆記根據官網的官方教學做的紀錄，測試算圖使用Character Creator輸出引擎。</p>
+<h3 id="basic">Basic</h3>
+<h4 id="快速鍵">快速鍵</h4>
+<h5 id="camera-navigation-windw--toolbar--camera-">Camera Navigation (windw &gt; toolbar &gt; camera )</h5>
+<ol>
+<li>z  zoom</li>
+<li>x  pan</li>
+<li>c  orbit</li>
+<li>亦可參考iclone 切換視角快速鍵</li>
+</ol>
+<h5 id="內建功能角色算圖測試">內建功能角色算圖測試</h5>
+<p>( 測試版僅可輸出圖片上限800X600)</p>
+<p><img src="/images/blog/reallusion/CC3_SF_RenderTest.jpg" alt=""></p>
+        </article>
       </div>
     </div>
-  </div>
-</section>
+    <div class="disqus markdown">
+      <div id="disqus_thread"></div>
+<script type="text/javascript">
 
-<section class="site-blog">
-  <div class="container">
-    <div class="row">
-      
-      <div class="col-lg-6">
-        <article class="site-blog-post">
-          
-          <div class="site-blog-post-thumb">
-            <img src="https://yilee-missions.github.io/images/blog/blog_hugo_img.jpg" alt="post-thumb">
-          </div>
-          
-          <div class="site-blog-post-content">
-            <span>July 1, 2021</span>
-            <h3><a href="https://yilee-missions.github.io/blog/learn_03_shortcodes/">使用Hugo Shortcodes</a></h3>
-            <p>
-              <p>這篇筆記學習透過Shortcodes 插入社群媒體文章與影音到Hugo的網頁中。</p> ...
-            </p>
-            <a href="https://yilee-missions.github.io/blog/learn_03_shortcodes/" class="read-more">read more</a>
-          </div>
-        </article>
-      </div>
-      
-      <div class="col-lg-6">
-        <article class="site-blog-post">
-          
-          <div class="site-blog-post-thumb">
-            <img src="https://yilee-missions.github.io/images/blog/blog_hugo_img.jpg" alt="post-thumb">
-          </div>
-          
-          <div class="site-blog-post-content">
-            <span>June 30, 2021</span>
-            <h3><a href="https://yilee-missions.github.io/blog/learn_02_/">為Hugo文章分類、加上標籤</a></h3>
-            <p>
-              <p>每篇文章的最開頭，需寫入以下程式碼，方能順利顯示在Hugo的網頁上</p> ...
-            </p>
-            <a href="https://yilee-missions.github.io/blog/learn_02_/" class="read-more">read more</a>
-          </div>
-        </article>
-      </div>
-      
-      <div class="col-lg-6">
-        <article class="site-blog-post">
-          
-          <div class="site-blog-post-thumb">
-            <img src="https://yilee-missions.github.io/images/blog/blog_Markdown_img.png" alt="post-thumb">
-          </div>
-          
-          <div class="site-blog-post-content">
-            <span>June 30, 2021</span>
-            <h3><a href="https://yilee-missions.github.io/blog/learn_01_markdown/">Markdown 語法學習</a></h3>
-            <p>
-              <p>每篇文章的最開頭，需寫入以下程式碼，方能順利顯示在Hugo的網頁上</p> ...
-            </p>
-            <a href="https://yilee-missions.github.io/blog/learn_01_markdown/" class="read-more">read more</a>
-          </div>
-        </article>
-      </div>
-      
-      <div class="col-12">
-        <div class="site-blog-pagination">
-          
-    <ul class="pagination pagination-default">
-      <li class="page-item">
-        <a href="/blog/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
-      </li>
-      <li class="page-item">
-        <a href="/blog/page/2/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
-      </li>
-      <li class="page-item">
-        <a href="/blog/" aria-label="Page 1" class="page-link" role="button">1</a>
-      </li>
-      <li class="page-item">
-        <a href="/blog/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
-      </li>
-      <li class="page-item active">
-        <a href="#" aria-current="page" aria-label="Page 3" class="page-link" role="button">3</a>
-      </li>
-      <li class="page-item disabled">
-        <a href="#" aria-disabled="true" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
-      </li>
-      <li class="page-item disabled">
-        <a href="#" aria-disabled="true" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
-      </li>
-    </ul>
-          
-        </div>
-      </div>
-     
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'yilee-missions';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
     </div>
   </div>
+
 </section>
 
            

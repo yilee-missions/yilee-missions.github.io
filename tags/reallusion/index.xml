@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reallusion on Yi Lee | Personal Website</title>
+    <link>https://yilee-missions.github.io/tags/reallusion/</link>
+    <description>Recent content in Reallusion on Yi Lee | Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 02 Sep 2021 11:00:00 +0800</lastBuildDate><atom:link href="https://yilee-missions.github.io/tags/reallusion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Character Creator 基礎教學</title>
+      <link>https://yilee-missions.github.io/blog/learn_10_cc3/</link>
+      <pubDate>Thu, 02 Sep 2021 11:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/learn_10_cc3/</guid>
+      <description>&lt;p&gt;以下筆記根據官網的官方教學做的紀錄，測試算圖使用Character Creator輸出引擎。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>iClone 基礎教學</title>
+      <link>https://yilee-missions.github.io/blog/learn_09_iclone7/</link>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0800</pubDate>
+      
+      <guid>https://yilee-missions.github.io/blog/learn_09_iclone7/</guid>
+      <description>&lt;p&gt;以下筆記根據官網的官方教學做的紀錄，測試影片利用iClone 7進行製作。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
